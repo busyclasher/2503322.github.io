@@ -4,8 +4,10 @@ project:
   
   
 website:
-  title: "temp_website"
+  title: "Your Name"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
@@ -18,5 +20,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 

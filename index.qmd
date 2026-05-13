@@ -1,11 +1,16 @@
 ---
-title: "temp_website"
+title: "Your Name"
 ---
 
-This is a Quarto website.
+::: {style="float:left; position: relative; top: 0px"}
+![](imgs/photo.jpg){height="100px" style="margin-right: 10px"}
+:::
+Write your text here beside the image.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+Write something about yourself here.
+
+## Video
+
+{{< video https://www.youtube.com/watch?v=rphrFDf00mk width="600" height="400" >}}
