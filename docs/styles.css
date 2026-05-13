@@ -1,15 +1,70 @@
-/* css styles */
+/* ── Typography ─────────────────────────────────────── */
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
   font-size: 16px;
+  line-height: 1.7;
+  background-color: #f0f4ff;
+  color: #2d2d2d;
+}
+
+/* Let the theme control heading sizes naturally —
+   only set weight and spacing here */
+h1, h2, h3, h4 {
+  font-weight: 600;
+  margin-top: 1.4rem;
+  margin-bottom: 0.4rem;
 }
 
 p {
-  margin: 0;
-  padding: 0;
-  line-height: 1.2;
+  margin-bottom: 1rem;
 }
 
-h1, h2 { font-size: 16pt; }
-h3, h4 { font-size: 14pt; }
+/* ── Navbar ─────────────────────────────────────────── */
+
+.navbar-brand img {
+  height: 36px;
+}
+
+/* ── About page layout ──────────────────────────────── */
+
+.quarto-about-trestles .about-entity img {
+  border: 3px solid #dee2e6;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+}
+
+.about-link {
+  font-size: 0.9rem;
+}
+
+/* ── Content ────────────────────────────────────────── */
+
+#quarto-content {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+  padding: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.quarto-title h1.title {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Footer ─────────────────────────────────────────── */
+
+.nav-footer {
+  font-size: 0.85rem;
+  color: #6c757d;
+  border-top: 1px solid #dee2e6;
+  padding-top: 0.8rem;
+}

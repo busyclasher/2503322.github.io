@@ -1,15 +1,39 @@
 ---
 title: "Your Name"
+toc: false
+about:
+  template: trestles
+  image: imgs/photo.jpeg
+  image-shape: round
+  image-width: 150px
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/2503322
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: envelope
+      text: Email
+      href: mailto:2503322@sit.singaporetech.edu.sg
 ---
 
-::: {style="float:left; position: relative; top: 0px"}
-![](imgs/photo.jpg){height="100px" style="margin-right: 10px"}
-:::
-Write your text here beside the image.
+Hi there! I'm a student at the **Singapore Institute of Technology**. Welcome to my personal site.
 
 ## About Me
 
-Write something about yourself here.
+Write something about yourself here — your interests, background, or what you're studying.
+
+## Education
+
+**Singapore Institute of Technology**  
+Bachelor of Science in [Your Programme] · 2023 – Present
+
+## Skills
+
+- R / Python
+- Data Analysis
+- Something else you're good at
 
 ## Video
 

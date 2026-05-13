@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Your Name",
     "section": "",
-    "text": "Write your text here beside the image."
+    "text": "Hi there! I’m a student at the Singapore Institute of Technology. Welcome to my personal site."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About This Site",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This site was built with Quarto as part of a lab assignment at the Singapore Institute of Technology."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Your Name",
     "section": "About Me",
-    "text": "About Me\nWrite something about yourself here."
+    "text": "About Me\nWrite something about yourself here — your interests, background, or what you’re studying."
   },
   {
     "objectID": "index.html#video",
@@ -26,5 +26,40 @@
     "title": "Your Name",
     "section": "Video",
     "text": "Video"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Your Name",
+    "section": "Education",
+    "text": "Education\nSingapore Institute of Technology\nBachelor of Science in [Your Programme] · 2023 – Present"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Your Name",
+    "section": "Skills",
+    "text": "Skills\n\nR / Python\nData Analysis\nSomething else you’re good at"
+  },
+  {
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About This Site",
+    "section": "Purpose",
+    "text": "Purpose\nThis is a personal portfolio site to showcase my work, learning journey, and projects throughout my studies."
+  },
+  {
+    "objectID": "about.html#how-its-built",
+    "href": "about.html#how-its-built",
+    "title": "About This Site",
+    "section": "How It’s Built",
+    "text": "How It’s Built\nThe site uses:\n\nQuarto for authoring and rendering\nGitHub Pages for hosting\nThe Cosmo Bootstrap theme"
+  },
+  {
+    "objectID": "about.html#a-quick-demo",
+    "href": "about.html#a-quick-demo",
+    "title": "About This Site",
+    "section": "A Quick Demo",
+    "text": "A Quick Demo\nHere’s a simple R example to show the site can run live code:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
   }
 ]

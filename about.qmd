@@ -1,9 +1,26 @@
 ---
-title: "About"
+title: "About This Site"
 ---
 
-About this site
+This site was built with [Quarto](https://quarto.org) as part of a lab assignment at the Singapore Institute of Technology.
+
+## Purpose
+
+This is a personal portfolio site to showcase my work, learning journey, and projects throughout my studies.
+
+## How It's Built
+
+The site uses:
+
+- **Quarto** for authoring and rendering
+- **GitHub Pages** for hosting
+- The **Cosmo** Bootstrap theme
+
+## A Quick Demo
+
+Here's a simple R example to show the site can run live code:
 
 ```{r}
-1 + 1
+#| label: demo
+summary(cars)
 ```
