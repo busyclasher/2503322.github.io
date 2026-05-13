@@ -5,9 +5,8 @@ project:
   
 website:
   title: "Your Name"
-  favicon: favicon.png
   navbar:
-    logo: logo.png
+    logo: imgs/lab_sit_logo.png
     left:
       - href: index.qmd
         text: Home
